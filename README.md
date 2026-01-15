@@ -1,2 +1,3 @@
 # external-roblox
-no virus coverted python to exe
+no virus but it will flag because it touches roblox memory       
+coverted python to exe
